@@ -1,0 +1,16 @@
+# KiCad basura extra
+.history/
+*-backups
+*.kicad_prl# Mac
+.DS_Store
+
+# temporales
+*.tmp
+*.bak
+*.autosave
+
+# KiCad
+*.kicad_prl
+*.kicad_pro-bak
+*.lck
+*-backup.*
