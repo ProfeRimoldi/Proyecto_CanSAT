@@ -1,7 +1,9 @@
 # KiCad basura extra
 .history/
 *-backups
-*.kicad_prl# Mac
+*.kicad_prl
+
+# Mac
 .DS_Store
 
 # temporales
