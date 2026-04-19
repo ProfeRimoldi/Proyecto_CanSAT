@@ -535,7 +535,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../outputs/Rev_A/gerbers/",
+      "plot": "../outputs/Rev_A/images/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "Placa.step",
