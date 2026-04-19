@@ -75,7 +75,12 @@ Actualmente cuenta con:
 
 * diseño PCB en KiCad
 * documentación estructurada
-* preparación para revisión formal de fabricación
+* revisión formal de fabricación `Rev_A`
+* Gerbers
+* Drill files
+* BOM
+* PDF de esquemático
+* renders e imágenes técnicas
 
 ---
 
