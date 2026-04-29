@@ -702,7 +702,7 @@
         "uuid": "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
       }
     ],
-    "used_designators": "U1-3,C3-6,SW1-4,K1,BZ1,R2-15,esp1,esp32_1,J2-3,J5-6,J15-16,Q1,#PWR2-14,D2-12",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
