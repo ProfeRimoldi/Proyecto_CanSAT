@@ -94,6 +94,12 @@ Desarrollo basado en ESP32 para:
 * telemetría
 * lógica de misión
 
+Actualmente cuenta con:
+
+* Firmware Test, verificador de enlace de comunicación LoRa entre los módulos.
+* Muestra en pantalla, firmware dedicado a enviar los datos de aceleración en 3 ejes, y un código en Processing para visualizarlo.
+* TestLED, para verificar el funcionamiento de los periféricos en la Earth Station Dev Board.
+
 La estructura de firmware se encuentra en evolución y será versionada junto con las revisiones de hardware.
 
 ---
