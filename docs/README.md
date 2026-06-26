@@ -16,7 +16,7 @@ Aquí se concentra la trazabilidad técnica global entre hardware, firmware y va
 * criterios de seguridad
 * cronograma de desarrollo
 * informes técnicos
-* documentación de revisiones
+* documentación de revisiones.
 
 ---
 
